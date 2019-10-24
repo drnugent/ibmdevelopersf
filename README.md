@@ -1,22 +1,21 @@
-# Welcome to the IBM booth at Silicon Valley Code Camp Challenge
+# Welcome to the IBM @ SFHTML5 Challenge ✌️😺
 
-1. [Welcome to the IBM booth at Silicon Valley Code Camp Challenge](#welcome-to-the-ibm-booth-at-silicon-valley-code-camp-challenge)
-2. [Sign up for IBM account](#sign-up-for-ibm-account)
-3. [Log In and Initialize Watson Language Translate Server](#log-in-and-initialize-watson-language-translate-server)
+1. [Sign up for IBM account](#sign-up-for-ibm-cloud-account)
+3. [Log In and Initialize Watson Language Translate Service](#log-in-and-initialize-watson-language-translate-service)
 4. [Say hello in your favorite language using TJBot Simulator](#say-hello-in-your-favorite-language-using-tjbot-simulator)
 
-Welcome ! Follow the steps below to win the IBM challenge at SVCC 2019. You `DO NOT` need a credit card to complete this challenge. It should take you approximately `10 minutes` to complete the challenge.
+Welcome ! Follow the steps below to win the IBM challenge at SFHTML5 October 2019. You `DO NOT` need a credit card to complete this challenge. It should take you approximately `5 minutes` to complete the challenge.
 
-## Sign up for IBM account
+## Sign up for IBM Cloud account
 
-1. Go to [IBM Cloud Registration](https://ibm.biz/BdzvbK) and enter the required information.
+1. Go to [IBM Cloud Registration](https://ibm.biz/Bdz3sz) and enter the required information.
 
 ![IBM Sign up](assets/ibm-signup.jpg)
 
 2. You will receive a confirmation email. Click on `Confirm Account` to finish signing up for your IBM Cloud account
 3. Log into your IBM Cloud account and follow the steps below.
 
-## Log In and Initialize Watson Language Translate Server
+## Log In and Initialize Watson Language Translate Service
 
 1. Click on `Create resource`.
 
@@ -66,5 +65,5 @@ Check here for an [updated list](https://cloud.ibm.com/docs/services/language-tr
 
 ## Enter the challenge
 
-1. Take a screenshot and tweet with `@IBMDeveloper` and `@sv_code_camp` and hastags `#TJBot` and `#svcc2019`.
-2. If you don't use twitter, just come by our booth and show us your final TJBot output to finish the challenge.
+1. Take a screenshot and tweet with `@IBMDeveloper` and `@sfhtml5` and hastags `#TJBot`.
+2. Or, come by our booth and show us your final TJBot output to finish the challenge.
