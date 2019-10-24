@@ -4,7 +4,7 @@
 3. [Log In and Initialize Watson Language Translate Service](#log-in-and-initialize-watson-language-translate-service)
 4. [Say hello in your favorite language using TJBot Simulator](#say-hello-in-your-favorite-language-using-tjbot-simulator)
 
-Welcome ! Follow the steps below to win the IBM challenge at SFHTML5 October 2019. You `DO NOT` need a credit card to complete this challenge. It should take you approximately `5 minutes` to complete the challenge.
+Welcome! Follow the steps below to enter the IBM challenge at SFHTML5 October 2019. You `DO NOT` need a credit card to complete this challenge. It should take you approximately `5 minutes` to complete the challenge.
 
 ## Sign up for IBM Cloud account
 
